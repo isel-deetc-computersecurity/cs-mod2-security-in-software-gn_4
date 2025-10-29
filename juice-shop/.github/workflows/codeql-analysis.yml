@@ -21,7 +21,6 @@ on:
         type: environment
         required: true
 
-
 jobs:
   analyze:
     name: Analyze
